@@ -5,7 +5,8 @@ export const navbar = defineNavbarConfig([
   {
     text: '笔记',
     items: [
-      { text: 'Feynman III 札记', link: '/notes/Feynman-III/README.md' }
+      { text: 'Feynman III 札记', link: '/notes/Feynman-III/README.md' },
+      { text: '高等微积分 (1)', link: '/notes/integral/README.md' },
     ]
   },
 ])
