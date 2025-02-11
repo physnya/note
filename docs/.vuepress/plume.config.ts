@@ -38,8 +38,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://physnya.top/img/Physics_nya.jpg',
-    name: 'physnya\'s notes',
-    description: 'This physnya\'s personal notebook.',
+    name: '菲兹克斯喵',
+    description: 'This physnya\'s personal blog',
     // circle: true,
     // location: '',
     // organization: '',
@@ -60,10 +60,10 @@ export default defineThemeConfig({
   // },
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
-  // transition: {
-  //   page: true,        // 启用 页面间跳转过渡动画
-  //   postList: true,    // 启用 博客文章列表过渡动画
-  //   appearance: 'fade',  // 启用 深色模式切换过渡动画, 或配置过渡动画类型
-  // },
+  transition: {
+  // page: true,        // 启用 页面间跳转过渡动画
+  // postList: true,    // 启用 博客文章列表过渡动画
+    appearance: 'fade',  // 启用 深色模式切换过渡动画, 或配置过渡动画类型
+  },
 
 })

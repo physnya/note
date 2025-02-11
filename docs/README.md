@@ -3,8 +3,8 @@ home: true
 config:
   -
     type: image-text
-    title: 笔记
-    description: 这里存放了 <a href='https://physnya.top/'>@physnya</a> 的一些个人笔记.
+    title: physnya
+    description: 这里是 <a href='https://physnya.top/'>@physnya</a> 的个人 blog，同时存放了一些笔记.
     image: https://physnya.top/img/Physics_nya.jpg
     list:
       -
@@ -15,5 +15,10 @@ config:
         description: 已经配置了 Twikoo 评论系统，评论的回复会用邮件进行通知，请及时查收；同时欢迎发表观点.
       - 
         title: 前往笔记
-        description: 点击 <a href='https://physnya.top/note/notes/'>此处</a> 进入笔记.
+        description: 点击 <a href='https://physnya.top/note/notes/'>此处</a> 进入笔记，或者从顶部导航栏进入笔记.
+      -
+        title: blog
+        description: 往下翻页即可看到博客文章.
+  -
+    type: blog
 ---

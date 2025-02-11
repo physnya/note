@@ -1,20 +1,12 @@
 :root {
     --vp-font-family-base:
-        "Noto Serif",
-        "Noto Serif SC",
-        "Noto Serif JP",
-        "Noto Serif KR",
-        "Noto Serif TC",
+        "LXGW WenKai Lite"
         "Apple Color Emoji",
         "Segoe UI Emoji",
         "Segoe UI Symbol",
         "Noto Color Emoji";
     --vp-font-family-mono:
-        "Noto Serif",
-        "Noto Serif SC",
-        "Noto Serif JP",
-        "Noto Serif KR",
-        "Noto Serif TC",
+        "LXGW WenKai Lite",
         ui-monospace,
         "Menlo",
         "Monaco",
@@ -29,11 +21,7 @@
 :root:where(:lang(zh)),
 :root:where(:lang(zh-CN)) {
     --vp-font-family-base:
-        "Noto Serif SC",
-        "Noto Serif",
-        "Noto Serif JP",
-        "Noto Serif KR",
-        "Noto Serif TC",
+        "LXGW WenKai Lite",
         ui-sans-serif,
         system-ui,
         serif,

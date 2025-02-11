@@ -6,24 +6,13 @@ import { notes } from './notes/index.ts'
 export default defineUserConfig({
   base: '/note/',
   lang: 'zh-CN',
-  title: 'physnya\'s notes',
-  description: 'This physnya\'s personal notebook.',
+  title: '菲兹克斯喵',
+  description: 'This is physnya\'s personal blog & notebook.',
 
   head: [
     // 配置站点图标
     ['link', { rel: 'icon', type: 'image/jpg', href: 'https://physnya.top/img/Physics_nya.jpg' }],
-    ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
-    [
-      "link",
-      { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
-    ],
-    [
-      "link",
-      {
-        href: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap",
-        rel: "stylesheet",
-      },
-    ],
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css' }]
   ],
 
   bundler: viteBundler(),
@@ -50,18 +39,18 @@ export default defineUserConfig({
      * 博客
      * @see https://theme-plume.vuejs.press/config/basic/#blog
      */
-    blog: false, // 禁用博客
-    // blog: {
-    //   postList: true, // 是否启用文章列表页
-    //   tags: true, // 是否启用标签页
-    //   archives: true, // 是否启用归档页
-    //   categories: true, // 是否启用分类页
-    //   postCover: 'right', // 文章封面位置
-    //   pagination: 15, // 每页显示文章数量
-    // },
+    // blog: false, // 禁用博客
+    blog: {
+      postList: true, // 是否启用文章列表页
+      tags: true, // 是否启用标签页
+      archives: true, // 是否启用归档页
+      categories: true, // 是否启用分类页
+      postCover: 'right', // 文章封面位置
+      pagination: 10, // 每页显示文章数量
+    },
 
     /* 博客文章页面链接前缀 */
-    article: '/article/',
+    article: '/posts/',
 
     /**
      * 编译缓存，加快编译速度
@@ -86,7 +75,7 @@ export default defineUserConfig({
        */
       shiki: {
         // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-        languages: ['shell', 'bash', 'typescript', 'javascript','css','html'],
+        languages: ['shell', 'bash', 'typescript', 'javascript','css','html','json','yaml'],
         twoslash: true, // 启用 twoslash
       //   whitespace: true, // 启用 空格/Tab 高亮
       //   lineNumbers: true, // 启用行号
@@ -127,7 +116,7 @@ export default defineUserConfig({
       markdownPower: {
         pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
       //   caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
-      //   plot: true,         // 启用隐秘文本语法 !!xxxx!!
+        plot: true,         // 启用隐秘文本语法 !!xxxx!!
       //   bilibili: true,     // 启用嵌入 bilibili视频 语法 @[bilibili](bid)
       //   youtube: true,      // 启用嵌入 youtube视频 语法 @[youtube](video_id)
       //   artPlayer: true,    // 启用嵌入 artPlayer 本地视频 语法 @[artPlayer](url)
@@ -144,7 +133,7 @@ export default defineUserConfig({
       //     rust: true,       // ::: rust-repl
       //     kotlin: true,     // ::: kotlin-repl
       //   },
-        imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
+        imageSize: 'all', // 启用 自动填充 图片宽高属性，避免页面抖动
       },
 
       /**
@@ -188,6 +177,8 @@ export default defineUserConfig({
      * 加密功能
      * @see https://theme-plume.vuejs.press/guide/features/encryption/
      */
-    encrypt: {},
+    encrypt: {
+      rules: {}
+    },
   }),
 })
