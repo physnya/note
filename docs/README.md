@@ -19,6 +19,9 @@ config:
       -
         title: blog
         description: 往下翻页即可看到博客文章.
+      -
+        title: ⌈ 开往 ⌋
+        description: 可以点击 [这里](https://www.travellings.cn/go.html) 随机穿梭至组织成员的网站，为大家带来更多流量，助力中文博客圈的发展.
   -
     type: blog
 ---
