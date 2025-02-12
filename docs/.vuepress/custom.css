@@ -30,3 +30,7 @@
         "Segoe UI Symbol",
         "Noto Color Emoji";
 }
+
+html {
+    font-size: 18px;
+}
