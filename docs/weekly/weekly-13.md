@@ -5,7 +5,6 @@ tags:
   - Life
 permalink: /posts/ugwpnsm5/
 ---
-# 流水账 Week 13
 
 众所周知，我上一周暂停了一次流水账的更新，纯粹是因为各种作业和 presentation 之类的任务比较重. 看来我的协调能力还需要进一步提高.
 
@@ -20,7 +19,7 @@ permalink: /posts/ugwpnsm5/
 放一张剧场版中歌剧王春季天皇赏卫冕的图片~
 
 ::: demo-wrapper img no-padding
-    ![](https://p.sda1.dev/20/22cc75ee40c1749ac558791c077fcb3a/屏幕截图.png)
+![](https://p.sda1.dev/20/22cc75ee40c1749ac558791c077fcb3a/屏幕截图.png)
 :::
 
 ## Fragment 2 星期天

@@ -6,7 +6,6 @@ tags:
 permalink: /posts/a8cr1we7/
 ---
 
-# 流水账 誕生日特辑
 
 按照时间顺序来梳理一下吧~
 
@@ -28,14 +27,16 @@ permalink: /posts/a8cr1we7/
 
 <s>疯狂给赛马娘游戏换看板，听每一只培育马娘给我的生日祝福.</s>
 
-::: center
-  ![](https://p.sda1.dev/19/4796332fba91976bef3c1d824a246590/2adbc9399bfa152c6f10fb885cc1de6f.png)
-  ![](https://p.sda1.dev/19/b9cd4a29f61bffd3d8158cd8129510c5/4c343d5e780381b85b6c4acc92c12d1e.png)
-  ![](https://p.sda1.dev/19/e71eab22fd423e1c8041b078b34d0bbe/68decebc238d8d28d21659844ccf97ad.png)
-  ![](https://p.sda1.dev/19/37a13741c43e0195e4bfc33ae928c441/47340323ed3efed1ad2cabe0bbdfd3fe.png)
-  ![](https://p.sda1.dev/19/f9cf8cbf6f300d0bebe2794bcde00b1c/d9b2245acde72830d4b64796fac47476.png)
-  ![](https://p.sda1.dev/19/e7bbdaecdae4f5c085d884f12f5f27a2/30f2b72cd78b0ac131477138f9ac717a.png)
-:::
+<CardGrid cols='3'>
+  <img src='https://p.sda1.dev/19/4796332fba91976bef3c1d824a246590/2adbc9399bfa152c6f10fb885cc1de6f.png'>
+  <img src='https://p.sda1.dev/19/b9cd4a29f61bffd3d8158cd8129510c5/4c343d5e780381b85b6c4acc92c12d1e.png'>
+  <img src='https://p.sda1.dev/19/e71eab22fd423e1c8041b078b34d0bbe/68decebc238d8d28d21659844ccf97ad.png'>
+</CardGrid>
+<CardGrid cols='3'>
+  <img src='https://p.sda1.dev/19/37a13741c43e0195e4bfc33ae928c441/47340323ed3efed1ad2cabe0bbdfd3fe.png'>
+  <img src='https://p.sda1.dev/19/f9cf8cbf6f300d0bebe2794bcde00b1c/d9b2245acde72830d4b64796fac47476.png'>
+  <img src='https://p.sda1.dev/19/e7bbdaecdae4f5c085d884f12f5f27a2/30f2b72cd78b0ac131477138f9ac717a.png'>
+</CardGrid>
 
 ::::
 

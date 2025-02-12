@@ -6,7 +6,6 @@ tags:
 permalink: /posts/yjy9ql2s/
 ---
 
-# 流水账 Week 2
 
 中秋节就开始写了，这周随想随记.
 

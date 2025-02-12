@@ -6,7 +6,6 @@ tags:
 permalink: /posts/mjf6caoa/
 ---
 
-# 流水账 Week 6
 
 这一周不知道为什么，过得异常充实（一定褒义），也导致我直到周日的下午才有时间开始写这一周的流水账.
 
@@ -165,11 +164,11 @@ Q$\omega$Q.
 
 :::: details screenshot
 
-::: center
-  ![](https://p.sda1.dev/19/04f7b0b92fafd9de0a214558a55ff630/微信图片_20241020234303.jpg)
-  ![](https://p.sda1.dev/19/1edc30c04d995a2861b17d35ccdd676f/微信图片_20241020234304.jpg)
-  ![](https://p.sda1.dev/19/4f99b6c4eef5173948b4fe7a2fd2edba/微信图片_20241020234305.jpg)
-:::
+<CardGrid cols='3'>
+  <img src='https://p.sda1.dev/19/04f7b0b92fafd9de0a214558a55ff630/微信图片_20241020234303.jpg'>
+  <img src='https://p.sda1.dev/19/1edc30c04d995a2861b17d35ccdd676f/微信图片_20241020234304.jpg'>
+  <img src='https://p.sda1.dev/19/4f99b6c4eef5173948b4fe7a2fd2edba/微信图片_20241020234305.jpg'>
+</CardGrid>
 
 ::::
 

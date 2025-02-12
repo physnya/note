@@ -6,7 +6,6 @@ tags:
 permalink: /posts/jsrhdlzl/
 ---
 
-# 流水账 Week 4
 
 国庆假期的一周. 说起来，从初二开始好像就没有这么完整地放过国庆假期了呢，久违的七天假期，好像也没做什么事情……好浪费啊(￣_,￣ )
 
@@ -24,15 +23,21 @@ permalink: /posts/jsrhdlzl/
 
 不过还是拍了很多照片：（PicX感觉比较慢，还是放到流浪图床吧）
 
-::: center
-  ![](https://p.sda1.dev/19/fccb6258aff7b0ad7cf4fba34d1c631d/2.jpg)
-  ![](https://p.sda1.dev/19/2b30b7a0dce8c87bc588adb09a84b296/3.jpg)
-  ![](https://p.sda1.dev/19/436ce3a72c06ea2d45a29affed282122/4.jpg)
-  ![](https://p.sda1.dev/19/77dc594045826276a6324fbfc513203b/11.jpg)
-  ![](https://p.sda1.dev/19/56b797f994e28b1c9d59313ac7f5b4d8/1.jpg)
-  ![](https://p.sda1.dev/19/6d5b9e838a69ae8bde8b6a8acf5911d3/14.jpg)
-  ![](https://p.sda1.dev/19/96a4af3b6f9c8fc2875dfc0d46832c45/12.jpg)
-:::
+<CardGrid>
+  <img src='https://p.sda1.dev/19/fccb6258aff7b0ad7cf4fba34d1c631d/2.jpg'>
+  <img src='https://p.sda1.dev/19/2b30b7a0dce8c87bc588adb09a84b296/3.jpg'>
+</CardGrid>
+
+<CardGrid cols='3'>
+  <img src='https://p.sda1.dev/19/436ce3a72c06ea2d45a29affed282122/4.jpg'>
+  <img src='https://p.sda1.dev/19/77dc594045826276a6324fbfc513203b/11.jpg'>
+  <img src='https://p.sda1.dev/19/56b797f994e28b1c9d59313ac7f5b4d8/1.jpg'>
+</CardGrid>
+
+<CardGrid>
+  <img src='https://p.sda1.dev/19/6d5b9e838a69ae8bde8b6a8acf5911d3/14.jpg'>
+  <img src='https://p.sda1.dev/19/96a4af3b6f9c8fc2875dfc0d46832c45/12.jpg'>
+</CardGrid>
 
 走在湖边上的时候，突然就想到，原来已经六年多了啊. 我目前人生的三分之一，都有着他们的陪伴，而且之后这个占比还会越来越多，这是一件很神奇的事情. 那个时候的友情好像没有什么顾忌，想到什么就能说什么，顶多也就是笑着骂你一句“情商好低”，而上了高中之后人际关系就变得复杂起来（当然这也可能只是我自己的问题……）
 

@@ -5,7 +5,6 @@ tags:
   - Life
 permalink: /posts/a8n8h73w/
 ---
-# 流水账 Week 15
 
 寒假已经开始了快两周才开始写这个流水账，我还真是怠惰啊 o_o .... 这一次流水账就来总结一下寒假至今为止都发生了什么.
 
@@ -51,17 +50,19 @@ permalink: /posts/a8n8h73w/
 
 :::: details 照片
 
-::: center
-
-![](https://vip.123pan.cn/1845440081/yk6baz03t0m000d6xujocxl02zgt9pojDIYxAIFxDda1DGxPDwUzAa==.jpg)
-![](https://vip.123pan.cn/1845440081/yk6baz03t0l000d6xujntyyrmy16vfq1DIYxAIFxDda1DGxPDwUzAa==.jpg)
-![](https://vip.123pan.cn/1845440081/yk6baz03t0n000d6xujp02b98uwfm1k9DIYxAIFxDda1DGxPDwUzAa==.jpg)
-![](https://vip.123pan.cn/1845440081/ymjew503t0m000d6xujzns9yx4gnomhbDIYxAIFxDda1DGxPDwUzAa==.jpg)
-![抹茶芭菲](https://vip.123pan.cn/1845440081/yk6baz03t0m000d6xujocxkz95gt8cjgDIYxAIFxDda1DGxPDwUzAa==.jpg)
-![](https://vip.123pan.cn/1845440081/ymjew503t0l000d6xujz7kdu2k11apa0DIYxAIFxDda1DGxPDwUzAa==.jpg)
-![](https://vip.123pan.cn/1845440081/yk6baz03t0n000d6xujp02b8f5wflp89DIYxAIFxDda1DGxPDwUzAa==.jpg)
-
-:::
+<CardGrid clos=''>
+<img src='https://vip.123pan.cn/1845440081/yk6baz03t0m000d6xujocxl02zgt9pojDIYxAIFxDda1DGxPDwUzAa==.jpg'>
+<img src='https://vip.123pan.cn/1845440081/yk6baz03t0l000d6xujntyyrmy16vfq1DIYxAIFxDda1DGxPDwUzAa==.jpg'>
+</CardGrid>
+<CardGrid cols='3'>
+<img src='https://vip.123pan.cn/1845440081/yk6baz03t0n000d6xujp02b98uwfm1k9DIYxAIFxDda1DGxPDwUzAa==.jpg'>
+<img src='https://vip.123pan.cn/1845440081/ymjew503t0m000d6xujzns9yx4gnomhbDIYxAIFxDda1DGxPDwUzAa==.jpg'>
+<img src='https://vip.123pan.cn/1845440081/yk6baz03t0m000d6xujocxkz95gt8cjgDIYxAIFxDda1DGxPDwUzAa==.jpg'>
+</CardGrid>
+<CardGrid>
+<img src='https://vip.123pan.cn/1845440081/ymjew503t0l000d6xujz7kdu2k11apa0DIYxAIFxDda1DGxPDwUzAa==.jpg'>
+<img src='https://vip.123pan.cn/1845440081/yk6baz03t0n000d6xujp02b8f5wflp89DIYxAIFxDda1DGxPDwUzAa==.jpg'>
+</CardGrid>
 
 ::::
 

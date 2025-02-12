@@ -5,7 +5,6 @@ tags:
   - Life
 permalink: /posts/wq1j551x/
 ---
-# 流水账 Week 12
 
 ## Fragment 1 CloudFlare 和一个小插曲
 
@@ -51,31 +50,31 @@ permalink: /posts/wq1j551x/
 
 最后一个节目十一点整结束，我走出大礼堂，看到了漫天的繁星.
 
+::: center
 <img src="https://p.sda1.dev/20/20f58202d6c6c680398b1a555920f984/微信图片_20241201233542 _1_.jpg" style="zoom:15%;" />
+:::
 
 ## Fragment 3 初雪
 
 11.26，迎来了今年的初雪. 那天晚上刚好是开完会，一出来雪已经快要停了，先放几张图片在这里~
 
 :::: details 图片
-
-::: center
-
-    ![](https://p.sda1.dev/20/a6f119f593a8be6947d6286b898381d0/4b88af198732f3b9d67f787a2764bd5.png)
-    ![](https://p.sda1.dev/20/d2d2cbd0c10be92b9988a2e212bc37f1/a7e1556cb248e0be28adc60313d4352.png)
-    ![](https://p.sda1.dev/20/aff2c87acce357815fad189b725bf2e7/69f2270a3476526ecd3806caf20e03e.jpg)
-    ![](https://p.sda1.dev/20/9c59e016be8980919439ac87ca2c4604/7cd24e83919deb4523035214240503b.jpg)
-    ![](https://p.sda1.dev/20/6e94c919492f0b97265e31e7335818ac/ac11f94c7d6276a3c0301dc941e67c0.jpg)
-
-:::
-
+<CardGrid cols='3'>
+  <img src='https://p.sda1.dev/20/a6f119f593a8be6947d6286b898381d0/4b88af198732f3b9d67f787a2764bd5.png'>
+  <img src='https://p.sda1.dev/20/d2d2cbd0c10be92b9988a2e212bc37f1/a7e1556cb248e0be28adc60313d4352.png'>
+  <img src='https://p.sda1.dev/20/aff2c87acce357815fad189b725bf2e7/69f2270a3476526ecd3806caf20e03e.jpg'>
+</CardGrid>
+<CardGrid>
+  <img src='https://p.sda1.dev/20/9c59e016be8980919439ac87ca2c4604/7cd24e83919deb4523035214240503b.jpg'>
+  <img src='https://p.sda1.dev/20/6e94c919492f0b97265e31e7335818ac/ac11f94c7d6276a3c0301dc941e67c0.jpg'>
+</CardGrid>
 ::::
 
 看到一张笑脸啦~那天上午的体育课也在体育馆的墙壁上看到了一个粉笔画的笑脸，微笑的一天hhh.
 
 ::: details 体育馆的笑脸
 
-    ![](https://p.sda1.dev/20/028d514d31272d4627f536f7983240b6/7f3f2cc5352fdc84609f89a316cca76.jpg)
+![](https://p.sda1.dev/20/028d514d31272d4627f536f7983240b6/7f3f2cc5352fdc84609f89a316cca76.jpg)
 
 :::
 
