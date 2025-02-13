@@ -36,7 +36,7 @@ jobs:
 
       - name: Build VuePress site
         run: |
-          export NODE_OPTIONS="--max-old-space-size=4096"
+          export NODE_OPTIONS="--max-old-space-size=8192"
           pnpm docs:build
 
       - name: Deploy to GitHub Pages
