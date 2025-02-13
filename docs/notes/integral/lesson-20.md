@@ -128,7 +128,7 @@ $$
 > $$
 > R=\frac{(g\circ f)^{(m)}(0)}{m!}
 > $$
-> 用到我们之前在 [Lesson 16](https://physnya.top/note/integral/lesson-16/) 中讲到过的高阶导数的链式法则，能够证明相等.
+> 用到我们之前在 [Lesson 16](/integral/integral/agjiig9l/) 中讲到过的高阶导数的链式法则，能够证明相等.
 
 证毕.
 

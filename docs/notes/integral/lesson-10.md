@@ -35,7 +35,7 @@ $\Longleftrightarrow$ $\forall\varepsilon>0$，$\exist\delta>0$，$\forall|x-x_0
 
 ------
 
-回忆[压缩映像定理](https://physnya.top/note/integral/lesson-9/)，最后一段证明实际上使用这里的这个推论.
+回忆[压缩映像定理](/integral/integral/ih4mtv5k/)，最后一段证明实际上使用这里的这个推论.
 
 设$(X,d)$是完备度量空间，$T:X\to X$压缩，要求：
 

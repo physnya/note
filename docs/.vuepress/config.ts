@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 import { notes } from './notes/index.ts'
 
 export default defineUserConfig({
-  base: '/note/',
+  base: '/',
   lang: 'zh-CN',
   title: '菲兹克斯喵',
   description: 'This is physnya\'s personal blog & notebook.',
@@ -22,7 +22,7 @@ export default defineUserConfig({
     notes,
     copyright: 'CC-BY-NC-SA-4.0',
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    // hostname: 'https://your_site_url',
+    hostname: 'https://physnya.top',
 
     /* 文档仓库配置，用于 editLink */
     // docsRepo: '',

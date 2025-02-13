@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://physnya.top/img/Physics_nya.jpg',
+  logo: 'images/Physics_nya.jpg',
 
   appearance: true,  // 配置 深色模式
 
@@ -28,16 +28,16 @@ export default defineThemeConfig({
   createTime: true, // 是否显示文章创建时间
 
   /* 站点页脚 */
-  // footer: {
-  //   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-  //   copyright: '',
-  // },
+  footer: {
+    message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
+    copyright: 'Copyright © 2024 - present by physnya',
+  },
 
   /**
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: 'https://physnya.top/img/Physics_nya.jpg',
+    avatar: 'images/Physics_nya.jpg',
     name: '菲兹克斯喵',
     description: 'This physnya\'s personal blog',
     // circle: true,

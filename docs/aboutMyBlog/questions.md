@@ -99,4 +99,4 @@ D.
 
 A. B. C.
 
-可以看看我的文章：[流水账 Week 2](https://physnya.top/2024/09/21/weekly-2/) 的 Fragment 3.
+可以看看我的文章：[流水账 Week 2](/posts/yjy9ql2s/) 的 Fragment 3.
