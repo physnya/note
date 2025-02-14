@@ -1,27 +1,95 @@
-# physnya-s-notes
+看到几个朋友（[@小氯](https://www.yoghurtlee.com/)、[@Pinpe](https://blog.pinpe.top/)和[@FoolishFox](https://foolishfox.cn/)）在做，我也跟个风~
 
-网站使用 [vuepress](https://vuepress.vuejs.org/) 和 [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume) 构建生成。
+------
 
-## Install
+以下是[“独立博客自省问卷15题”](https://yayu.net/4626.html)的内容，同时作为我 GitHub 的 blog repo 的 README.
 
-```sh
-npm i
-```
+## 更新频率？
 
-## Usage
+B.
 
-```sh
-# 启动开发服务
-npm run docs:dev
-# 构建生产包
-npm run docs:build
-# 本地预览生产服务
-npm run docs:preview
-# 更新 vuepress 和主题
-npm run vp-update
-```
+每周至少有一篇文章，如果可以被称为文章的话.
 
-## 文档
+## 上次更新时间？
 
-- [vuepress](https://vuepress.vuejs.org/)
-- [vuepress-theme-plume](https://theme-plume.vuejs.press/)
+A.
+
+由于这是一个 README ，所以我不方便在此处回答，毕竟更新频率还算比较高.
+
+## 是否原创？
+
+A.
+
+100%原创，可以保证；转载内容全部以pdf方式呈现.
+
+## 文章对他人有帮助吗？
+
+B.
+
+我觉得对于我的线下好友和部分网友有一点点帮助，主要还是分享我自己的专业知识.
+
+## 上次更换博客主题/程序是什么时候？
+
+D.
+
+从24年3月建站开始就没有更换过；之后有想法换成更加简洁的主题，程序不太想更换，因为不熟悉Hexo之外的程序.
+
+## 上次修改博客主题代码是什么时候？
+
+C.
+
+应该是想要让Twikoo支持$\LaTeX$输入的时候，改了一点点ejs.
+
+## 是否会对主题进行二次开发？
+
+A.
+
+不会，没有技术. 或许有一天我会这么做.
+
+## 多久打开自己的博客一次？
+
+A.
+
+每天，本来就算是自己的知识库，有时还要回复评论.
+
+## 近期对自己的域名有何感受？
+
+D.
+
+我认为我很喜欢这个域名，而且我已经续费了十年，应该会一直使用下去.
+
+## 每天都会看流量统计吗？
+
+B.
+
+隔一天会看一次，算是很频繁.
+
+## 是否通过广告赚钱？
+
+C.
+
+我不会加入广告.
+
+## 去浏览其他人的网站的目的是？
+
+A.
+
+娱乐，以及寻找伙伴.
+
+## 看到其他人博文的第一反应？
+
+D.
+
+看内容，之后看评论，如果有共鸣则发表自己的见解.
+
+## 博客哪方面更重要？
+
+D.
+
+内容至上.
+
+## 近期写博客的收获？
+
+A. B. C.
+
+可以看看我的文章：[流水账 Week 2](/posts/yjy9ql2s/) 的 Fragment 3.

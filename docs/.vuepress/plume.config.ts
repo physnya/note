@@ -29,7 +29,7 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
+    message: 'Powered by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
     copyright: 'Copyright © 2024 - present by physnya',
   },
 
@@ -65,5 +65,5 @@ export default defineThemeConfig({
   // postList: true,    // 启用 博客文章列表过渡动画
     appearance: 'fade',  // 启用 深色模式切换过渡动画, 或配置过渡动画类型
   },
-
+  
 })

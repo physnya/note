@@ -2,6 +2,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 import { notes } from './notes/index.ts'
+import { feedPlugin } from '@vuepress/plugin-feed'
 
 export default defineUserConfig({
   base: '/',
@@ -183,4 +184,16 @@ export default defineUserConfig({
       }
     },
   }),
+  plugins: [
+    feedPlugin({
+      hostname: 'https://physnya.top',
+      atom: true,
+      count: 50,
+      icon: 'images/Physics_nya.jpg',
+      image: 'images/Physics_nya.jpg',
+      devServer: true,
+      devHostname: 'http://localhost:8080',
+      atomOutputFilename: 'atom.xml',
+    }),
+  ]
 })
