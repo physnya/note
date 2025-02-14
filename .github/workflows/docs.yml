@@ -33,6 +33,8 @@ jobs:
           key: node-cache-${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
           restore-keys: |
             node-cache-${{ runner.os }}-pnpm-
+            node-cache-${{ runner.os }}-
+            node-cache-
 
       - name: Build VuePress site
         run: |
