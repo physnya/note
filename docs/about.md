@@ -2,10 +2,7 @@
 title: 关于我
 draft: true
 permalink: /about/
-pageLayout: home
-config:
-  -
-    type: custom
+pageLayout: doc
 createTime: 2025/02/14 22:55:26
 ---
 ## 自我介绍
