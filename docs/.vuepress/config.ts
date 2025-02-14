@@ -188,7 +188,7 @@ export default defineUserConfig({
     feedPlugin({
       hostname: 'https://physnya.top',
       atom: true,
-      count: 50,
+      count: 100,
       icon: 'images/Physics_nya.jpg',
       image: 'images/Physics_nya.jpg',
       devServer: true,
